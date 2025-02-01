@@ -77,7 +77,7 @@ if RecoilControlMode == "Low" then
 elseif RecoilControlMode == "Medium" then
   RecoilControlStrength = 6
 elseif RecoilControlMode == "High" then
-  RecoilControlStrength = 8
+  RecoilControlStrength = 14
 elseif RecoilControlMode == "Ultra" then
   RecoilControlStrength = 12
 elseif RecoilControlMode == "Insanity" then
